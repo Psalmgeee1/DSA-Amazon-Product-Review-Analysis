@@ -58,6 +58,7 @@ Top Products (Rating × Reviews)	5 products with high combined scores stand out
 ![Distribution of Product Rating](https://github.com/user-attachments/assets/4d01278a-9f47-437a-97b2-7bccd6c2609a)
 ![unique products per price range bucket](https://github.com/user-attachments/assets/b21daef0-51d3-4547-8094-8f8609314e2e)
 # Tool Used
+- WPS
 - Pivot Tables
 - Pivot Charts
 - Dynamic KPIs
