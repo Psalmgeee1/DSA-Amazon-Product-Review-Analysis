@@ -32,18 +32,28 @@ Use pivot tables and calculated columns where necessary to answer the following:
 ## Dashboard overview 
 ![DASHBORD OVERVIEW](https://github.com/user-attachments/assets/dbf0c6eb-cf66-4ee1-9c61-2e128efc936f)
 # Amazon Product Insights Summary
-Total Products	1301
-High Discounts	662 products (51%) have ≥ 50% discount
-Top Rated Product	boAt Bassheads
-Most Reviewed Product	Amazon Basics (147 reviews)
-Low Review Products	214 products have fewer than 1,000 reviews
-Total Potential Revenue	₹1,137,377,735 (based on actual price × rating count)
-Actual Revenue	₹7,727,299.28
-Discounted Revenue	₹4,476,486.17
-Top Categories (by count)	Electronics, Home & Kitchen, Computers & Accessories
-Top Revenue Category	Electronics
-Highest Discount Categories	Home Improvement, Computers & Accessories (>50%)
-Rating Distribution	Majority between 4.0 – 4.5 stars
-Price Range (Most Common)	> ₹500 (45% of products)
-Discount vs Rating	No strong correlation — deep discounts don’t guarantee higher ratings
+- Total Products	1301
+- High Discounts	662 products (51%) have ≥ 50% discount
+- Top Rated Product	boAt Bassheads
+- Most Reviewed Product	Amazon Basics (147 reviews)
+- Low Review Products	214 products have fewer than 1,000 reviews
+- Total Potential Revenue	₹1,137,377,735 (based on actual price × rating count)
+- Actual Revenue	₹7,727,299.28
+- Discounted Revenue	₹4,476,486.17
+- Top Categories (by count)	Electronics, Home & Kitchen, Computers & Accessories
+- Top Revenue Category	Electronics
+- Highest Discount Categories	Home Improvement, Computers & Accessories (>50%)
+- Rating Distribution	Majority between 4.0 – 4.5 stars
+- Price Range (Most Common)	> ₹500 (45% of products)
+- Discount vs Rating	No strong correlation — deep discounts don’t guarantee higher ratings
 Top Products (Rating × Reviews)	5 products with high combined scores stand out
+![Products with Highest Discount by Category](https://github.com/user-attachments/assets/8f5a8129-997a-4e73-8401-38bcb957ef5b)
+![Top 5 Product by Score](https://github.com/user-attachments/assets/0c8bf6d8-6e17-4509-90d1-cff6b215fa03)
+![Potential Revenue by Category](https://github.com/user-attachments/assets/ab687e77-5808-40b5-bed2-da4a22581aa1)
+![Average Discount by Category](https://github.com/user-attachments/assets/fcf36587-cdc6-4964-b7ce-08418b32736a)
+![Product count by category](https://github.com/user-attachments/assets/384cf5a9-2aeb-4dea-8883-c255934e2143)
+![Review by category](https://github.com/user-attachments/assets/d03a46e7-430d-4d9b-ad8d-abdfaad48884)
+![Top Rated Product](https://github.com/user-attachments/assets/d0191a10-a609-47c7-a0e4-bc5a29abde78)
+![Actual vs Discounted Price](https://github.com/user-attachments/assets/78639d71-54e9-4256-8b50-0b9daeb40168)
+![Distribution of Product Rating](https://github.com/user-attachments/assets/4d01278a-9f47-437a-97b2-7bccd6c2609a)
+![unique products per price range bucket](https://github.com/user-attachments/assets/b21daef0-51d3-4547-8094-8f8609314e2e)
