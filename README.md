@@ -29,7 +29,21 @@ Use pivot tables and calculated columns where necessary to answer the following:
 12. How many products have fewer than 1,000 reviews? 
 13. Which categories have products with the highest discounts? 
 14. Identify the top 5 products in terms of rating and number of reviews combined. 
-## Final Task: Dashboard Creation 
-Using your cleaned dataset and pivot outputs, build an Excel dashboard. Unleash your 
-Creativity 
-# Dashboard overview 
+## Dashboard overview 
+![DASHBORD OVERVIEW](https://github.com/user-attachments/assets/dbf0c6eb-cf66-4ee1-9c61-2e128efc936f)
+# Amazon Product Insights Summary
+Total Products	1301
+High Discounts	662 products (51%) have ≥ 50% discount
+Top Rated Product	boAt Bassheads
+Most Reviewed Product	Amazon Basics (147 reviews)
+Low Review Products	214 products have fewer than 1,000 reviews
+Total Potential Revenue	₹1,137,377,735 (based on actual price × rating count)
+Actual Revenue	₹7,727,299.28
+Discounted Revenue	₹4,476,486.17
+Top Categories (by count)	Electronics, Home & Kitchen, Computers & Accessories
+Top Revenue Category	Electronics
+Highest Discount Categories	Home Improvement, Computers & Accessories (>50%)
+Rating Distribution	Majority between 4.0 – 4.5 stars
+Price Range (Most Common)	> ₹500 (45% of products)
+Discount vs Rating	No strong correlation — deep discounts don’t guarantee higher ratings
+Top Products (Rating × Reviews)	5 products with high combined scores stand out
