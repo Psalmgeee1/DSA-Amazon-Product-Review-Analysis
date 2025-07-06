@@ -57,3 +57,9 @@ Top Products (Rating × Reviews)	5 products with high combined scores stand out
 ![Actual vs Discounted Price](https://github.com/user-attachments/assets/78639d71-54e9-4256-8b50-0b9daeb40168)
 ![Distribution of Product Rating](https://github.com/user-attachments/assets/4d01278a-9f47-437a-97b2-7bccd6c2609a)
 ![unique products per price range bucket](https://github.com/user-attachments/assets/b21daef0-51d3-4547-8094-8f8609314e2e)
+# Tool Used
+- Pivot Tables
+- Pivot Charts
+- Dynamic KPIs
+# FILE
+[Amazon case Project.xlsx](https://github.com/user-attachments/files/21089542/Amazon.case.Project.xlsx)
