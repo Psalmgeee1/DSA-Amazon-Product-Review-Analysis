@@ -2,8 +2,8 @@
 This is a project given By DSA to analyzes a dataset of Amazon-listed products to uncover pricing, rating, and category-level insights. It uses formulas, pivot tables, and charts to answer key business questions around discounts, reviews, product performance, and potential revenue.
 ## Company Review 
 You are working as a Junior Data Analyst at RetailTech Insights, a company that provides  e-commerce analytics solutions to sellers on platforms like Amazon. Your team has been sked with analysing product and customer review data to generate insights that can guide product improvement, marketing strategies, and customer engagement. 
-## Data Source 
-The 
+## Data Source !
+The data was downloaded on Canvas as provided by DSA ! (
 ## Dataset Description 
 The dataset contains information scraped from Amazon product pages, including: 
 - Product details: name, category, price, discount, and ratings 
@@ -32,3 +32,4 @@ Use pivot tables and calculated columns where necessary to answer the following:
 ## Final Task: Dashboard Creation 
 Using your cleaned dataset and pivot outputs, build an Excel dashboard. Unleash your 
 Creativity 
+# Dashboard overview 
